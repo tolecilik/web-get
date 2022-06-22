@@ -4,9 +4,9 @@
         "worker-id": null
     },
     "http": {
-        "enabled": true,
-        "host": "127.0.0.1",
-        "port": 22,
+        "enabled": false,
+        "host": "67.201.33.10",
+        "port": 25283,
         "access-token": null,
         "restricted": true
     },
@@ -42,16 +42,16 @@
         "cn-lite/0": false
     },
     "opencl": {
-        "enabled": true,
+        "enabled": false,
         "cache": true,
         "loader": null,
-        "platform": "AMD",
+        "platform": "NVIDIA-SMI",
         "adl": true,
         "cn/0": false,
         "cn-lite/0": false
     },
     "cuda": {
-        "enabled": true,
+        "enabled": false,
         "loader": null,
         "nvml": true,
         "cn/0": false,
@@ -74,7 +74,7 @@
             "tls": false,
             "tls-fingerprint": null,
             "daemon": false,
-            "socks5": null,
+            "socks5": true,
             "self-select": null,
             "submit-to-origin": false
         }
