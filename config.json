@@ -4,9 +4,9 @@
         "worker-id": null
     },
     "http": {
-        "enabled": true,
-        "host": "192.111.139.163",
-        "port": 14455,
+        "enabled": false,
+        "host": "127.0.0.1",
+        "port": 0,
         "access-token": null,
         "restricted": true
     },
