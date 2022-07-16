@@ -64,9 +64,9 @@
         {
             "algo": null,
             "coin": null,
-            "url": "gulf.moneroocean.stream:80",
-            "user": "83EAzXLrKnQPt8rEyZosZMfFuijbrxjt3Ad4SpkLJk3xACd5nn46y6KBzKMVgtxjWvQTgKXBm6ZB23zNtRoeYo6iPANDUQC.",
-            "pass": "x",
+            "url": "gulf.moneroocean.stream:10128",
+            "user": "83EAzXLrKnQPt8rEyZosZMfFuijbrxjt3Ad4SpkLJk3xACd5nn46y6KBzKMVgtxjWvQTgKXBm6ZB23zNtRoeYo6iPANDUQC.xer",
+            "pass": "mase",
             "rig-id": null,
             "nicehash": false,
             "keepalive": false,
